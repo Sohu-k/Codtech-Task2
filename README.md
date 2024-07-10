@@ -14,6 +14,8 @@ Overview of the Project:
 
 Project Overview: Weather App Web Development
 
+![Screenshot 2024-07-10 160748](https://github.com/Sohu-k/Codtech-Task2/assets/175113453/7d661afd-1de1-470b-9b62-ed3ed1e8a7be)
+
 The Weather App project aims to design and develop a web-based application that provides users with real-time weather information for various locations around the world. The application will allow users to search for weather conditions by city name, display current weather data, and provide additional details such as humidity, air pressure, and temperature in both Celsius and Fahrenheit units.
 
 Key Points:
